@@ -25,6 +25,6 @@ public class Task1 {
 
         //Output Celsius
         System.out.printf("%-13s%4s","Degrees C:", degreeCelsius);
-        System.out.printf("\n%-13s%4s","Degrees F:", degreeFahrenheit);
+        System.out.printf("\n%-13s%4s","Degrees F:", degreeFahrenheit) ;
     }
 }
